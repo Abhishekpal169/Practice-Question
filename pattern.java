@@ -3,6 +3,6 @@ public class pattern{
         Scanner sc = new Scanner(System.in);
         int i = sc.nextInt();
         int j = sc.nextInt();
-        for(int i=1;i<)
+        for(int i=1;i<i;i++)
     }
 }
